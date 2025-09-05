@@ -1,0 +1,8 @@
+// Esse arquivo tem como base configurar os imports, para que sempre seja referenciado a pasta raiz onde estiver o jsconfig.json
+
+{
+  "compilerOptions": {
+    "baseUrl": "."
+  }
+}
+
